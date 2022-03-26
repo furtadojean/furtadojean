@@ -1,8 +1,14 @@
-### Hi there 👋
+### Olá 👋
 ***
 
+<img src="myself.jpg" height="500"/>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jean-furtado" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/jean-furtado?trk=profile-badge">Jean Michel Furtado M'Peko</a></div>
+[![Linkedin](https://img.shields.io/badge/Linkedin-jean--furtado-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/jean-furtado) 
+
+![OS Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+![OS Debian](https://img.shields.io/badge/Debian-E95420?&style=for-the-badge&logo=debian&logoColor=white)
+![OS Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
+
    
 
 <!--
