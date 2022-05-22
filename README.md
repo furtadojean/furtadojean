@@ -10,7 +10,7 @@
 ![OS Debian](https://img.shields.io/badge/Debian-E95420?&style=for-the-badge&logo=debian&logoColor=white)
 ![OS Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 
-### [Como usar linux nos labs?](https://github.com/furtadojean/labs-linux)
+<!-- ### [Como usar linux nos labs?](https://github.com/furtadojean/labs-linux) -->
    
 
 <!--
